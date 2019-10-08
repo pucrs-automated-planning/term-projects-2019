@@ -22,10 +22,8 @@ Repository for Term Project Material in 2019
 | 10h15    |  TBD       | [Andrey Salvi](/salvi) |
 | 10h30    |  TBD       | [Felipe Tasoniero](/tasoniero) |
 | 10h45    |  TBD       | [Gabriel Figlarz](/figlarz) |
-| 11h00    |  TBD       | [Jessica Santana](/santana) |
-| 11h15    |  TBD       | [Marcos Sartori](/sartori) |
-| 11h30    |  TBD       | [Matheus Marcon](/marcon) |
-| 11h45    |  TBD       | [Nathan Gavenski](/gavenski) |
+| 11h00    |  TBD       | [Matheus Marcon](/marcon) |
+| 11h15    |  TBD       | [Nathan Gavenski](/gavenski) |
 
 <!-- | 10h00     | Using Automatic Planning for Supply Chain Management   | [Alexandre Ichida](/ichida) |
 | 10h15     | A COLREGs-Compliant Local Guidance System for Unmanned Surface Vehicles based on Hierarchical Task Network   | [Darlan Jurak](/jurak) |
