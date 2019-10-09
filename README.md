@@ -37,7 +37,7 @@ Repository for Term Project Material in 2019
 ## Assessment Criteria
 
 ### Part 1: Project presentation
-The first assessment grading criteria is as follows.
+The first assessment grading criteria is as follows (you should follow the [proposed structure](Proposal.md)). 
 
 - Application Domain Complexity (30%) - How complex the application domain you selected is difficult to model, yet realistically achievable within the course.
 - Paper readability (40%) - How well written the 2-page paper you wrote is, we break this down into the following criteria
