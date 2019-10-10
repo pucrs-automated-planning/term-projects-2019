@@ -20,7 +20,7 @@ Repository for Term Project Material in 2019
 | --------- | ----- | --------- |
 | 10h00    |  Reinforcement Learning for Active Appearance Model Dataset Selection       | [Andre Antonitsch](/antonitsch) |
 | 10h15    |  Pruning Neural Networks with Lottery Tickets in a MDP Approach       | [Andrey Salvi](/salvi) |
-| 10h30    |  TBD       | [Felipe Tasoniero](/tasoniero) |
+| 10h30    |  Neural Network Architecture Search Using Automated Planning       | [Felipe Tasoniero](/tasoniero) |
 | 10h45    |  Public Transportation Modelling: Planning Bus Lines Routes  | [Gabriel Figlarz](/figlarz) |
 | 11h00    |  Learning Heuristics with Graph Convolutional Networks  | [Matheus Marcon](/marcon) |
 | 11h15    |  Behavioral Cloning from Image Observation       | [Nathan Gavenski](/gavenski) |
