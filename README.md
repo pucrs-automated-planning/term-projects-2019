@@ -18,7 +18,7 @@ Repository for Term Project Material in 2019
 
 | Time Slot | Title | Presenter |
 | --------- | ----- | --------- |
-| 10h00    |  TBD       | [Andre Antonitsch](/antonitsch) |
+| 10h00    |  Reinforcement Learning for Active Appearance Model Dataset Selection       | [Andre Antonitsch](/antonitsch) |
 | 10h15    |  TBD       | [Andrey Salvi](/salvi) |
 | 10h30    |  TBD       | [Felipe Tasoniero](/tasoniero) |
 | 10h45    |  TBD       | [Gabriel Figlarz](/figlarz) |
