@@ -2,6 +2,7 @@
 
 ## Part 1
 
+Pruning Neural Networks with Lottery Tickets in a MDP Approach
 - [Short Paper](salvi-proposal.pdf)
 - [Presentation Slides](salvi-proposal-slides.pdf)
 
