@@ -22,7 +22,7 @@ Repository for Term Project Material in 2019
 | 10h15    |  TBD       | [Andrey Salvi](/salvi) |
 | 10h30    |  TBD       | [Felipe Tasoniero](/tasoniero) |
 | 10h45    |  TBD       | [Gabriel Figlarz](/figlarz) |
-| 11h00    |  TBD       | [Matheus Marcon](/marcon) |
+| 11h00    |  Learning Heuristics with Graph Convolutional Networks  | [Matheus Marcon](/marcon) |
 | 11h15    |  TBD       | [Nathan Gavenski](/gavenski) |
 
 <!-- | 10h00     | Using Automatic Planning for Supply Chain Management   | [Alexandre Ichida](/ichida) |

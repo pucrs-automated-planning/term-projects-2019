@@ -2,7 +2,6 @@
 
 ## Part 1
 
-Heuristics Learning with Graph Convolutional Networks
 - [Short Paper](marcon-proposal.pdf)
 - [Presentation Slides](marcon-proposal-slides.pdf)
 
