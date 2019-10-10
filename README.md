@@ -23,7 +23,7 @@ Repository for Term Project Material in 2019
 | 10h30    |  TBD       | [Felipe Tasoniero](/tasoniero) |
 | 10h45    |  Public Transportation Modelling: Planning Bus Lines Routes  | [Gabriel Figlarz](/figlarz) |
 | 11h00    |  Learning Heuristics with Graph Convolutional Networks  | [Matheus Marcon](/marcon) |
-| 11h15    |  TBD       | [Nathan Gavenski](/gavenski) |
+| 11h15    |  Behavioral Cloning from Image Observation       | [Nathan Gavenski](/gavenski) |
 
 <!-- | 10h00     | Using Automatic Planning for Supply Chain Management   | [Alexandre Ichida](/ichida) |
 | 10h15     | A COLREGs-Compliant Local Guidance System for Unmanned Surface Vehicles based on Hierarchical Task Network   | [Darlan Jurak](/jurak) |
