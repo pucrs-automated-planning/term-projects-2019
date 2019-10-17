@@ -17,7 +17,6 @@ Stylistic comments:
 - [ ] Avoid passive voice
 - [ ] Keep the abstract to the point, focusing on the 4 key aspects [I suggest here](http://www.meneguzzi.eu/felipe/presentations/paper-writing.pdf)
 - [ ] Additionally, moreover, furthermore are often (but not always) an indication of poor structure, get rid of them (e.g. Moreover, MDPs are automatic planning algorithms, which means that we are trying to find a policy that is a universal problem solver). If you have multiple points to make, enumerate them and tell the reader at the outset what you want.
-- [ ] 1/3 of a column overlong. Conferences reject papers on that basis.
 
 ## Part 2
 
