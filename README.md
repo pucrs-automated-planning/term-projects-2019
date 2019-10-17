@@ -1,6 +1,17 @@
 # term-projects-2019
 Repository for Term Project Material in 2019
 
+## Presentation Schedule -- Proposals (Room 514)
+
+| Time Slot | Title | Presenter |
+| --------- | ----- | --------- |
+| 10h00    |  Reinforcement Learning for Active Appearance Model Dataset Selection       | [Andre Antonitsch](/antonitsch) |
+| 10h15    |  Pruning Neural Networks with Lottery Tickets in a MDP Approach       | [Andrey Salvi](/salvi) |
+| 10h30    |  Neural Network Architecture Search Using Automated Planning       | [Felipe Tasoniero](/tasoniero) |
+| 10h45    |  Public Transportation Modelling: Planning Bus Lines Routes  | [Gabriel Figlarz](/figlarz) |
+| 11h00    |  Learning Heuristics with Graph Convolutional Networks  | [Matheus Marcon](/marcon) |
+| 11h15    |  Behavioral Cloning from Image Observation       | [Nathan Gavenski](/gavenski) |
+
 <!-- ## Presentation Schedule -- Final Presentation (Room TBD)
 
 | Time Slot | Title | Presenter |
@@ -13,26 +24,6 @@ Repository for Term Project Material in 2019
 | 10h45     | Learning Search Heuristics by Graph Convolutional Networks   | [Pedro Ballester](/ballester) |
 | 11h10     | Domain-independent image-based planning: results on the Atari video game   | [Raphael Baldi](/baldi) |
 | 11h35     | Constrained Path Planning for Energy Efficiency in Mobile Robots   | [Renan Maidana](/maidana) | -->
-
-## Presentation Schedule -- Proposals
-
-| Time Slot | Title | Presenter |
-| --------- | ----- | --------- |
-| 10h00    |  Reinforcement Learning for Active Appearance Model Dataset Selection       | [Andre Antonitsch](/antonitsch) |
-| 10h15    |  Pruning Neural Networks with Lottery Tickets in a MDP Approach       | [Andrey Salvi](/salvi) |
-| 10h30    |  Neural Network Architecture Search Using Automated Planning       | [Felipe Tasoniero](/tasoniero) |
-| 10h45    |  Public Transportation Modelling: Planning Bus Lines Routes  | [Gabriel Figlarz](/figlarz) |
-| 11h00    |  Learning Heuristics with Graph Convolutional Networks  | [Matheus Marcon](/marcon) |
-| 11h15    |  Behavioral Cloning from Image Observation       | [Nathan Gavenski](/gavenski) |
-
-<!-- | 10h00     | Using Automatic Planning for Supply Chain Management   | [Alexandre Ichida](/ichida) |
-| 10h15     | A COLREGs-Compliant Local Guidance System for Unmanned Surface Vehicles based on Hierarchical Task Network   | [Darlan Jurak](/jurak) |
-| 10h30     | Finding State-Action Similarities in Tabular Reinforcement Learning Using Low-Dimensional Embeddings  | [Gabriel de Lima](/glima) |
-| 10h45     | Reinforcement Learning for Database Indexing   | [Gabriel Licks](/glicks) |
-| 11h00     | Learning Search Heuristics by Graph Convolutional Networks   | [Pedro Ballester](/ballester) |
-| 11h15     | Domain-independent image-based planning: results on the Atari video game   | [Raphael Baldi](/baldi) |
-| 11h30     | Constrained Path Planning for Energy Efficiency in Mobile Robots   | [Renan Maidana](/maidana) |
-| 11h45     | Key Frame Plan Expansion With Machine Learning | [Guillermo Borges](/guillermo) | -->
 
 ## Assessment Criteria
 
