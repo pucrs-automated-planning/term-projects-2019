@@ -7,8 +7,16 @@
 
 Suggestions for further work (possibly outside the scope of this course):
 
-- [ ] TBD
+- [ ] Define a formal formula to compute the "reward" for swapping images in the **Database Selection**
+- [ ] Can you, somehow, define an analytical solutions for this?
+- [ ] This might also be modelled as an ILP problem, which reviewers will probably ask about
 
+Stylistic comments:
+
+- [ ] Avoid passive voice
+- [ ] Keep the abstract to the point, focusing on the 4 key aspects [I suggest here](http://www.meneguzzi.eu/felipe/presentations/paper-writing.pdf)
+- [ ] Additionally, moreover, furthermore are often (but not always) an indication of poor structure, get rid of them (e.g. Additionally, the training times for AAMs are directly connected with the dataset size used to train it.). If you have multiple points to make, enumerate them and tell the reader at the outset what you want.
+- [ ] 1/3 of a column overlong. Conferences reject papers on that basis.
 
 ## Part 2
 
