@@ -19,6 +19,6 @@ Stylistic comments:
 
 ## Part 2
 
-- [Implementation](<link to github>)
+- [Implementation](<https://github.com/FelipeTasoniero/MetaQNN_ImageClassification_PyTorch.git>)
 - [Final paper](tasoniero-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
 - [Final presentation slides](tasoniero-final-presentation-slides.pdf)
