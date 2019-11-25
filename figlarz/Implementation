@@ -1,0 +1,65 @@
+
+;Domínio
+
+(define (domain tsp-strips)
+  (:requirements :strips :action-costs)
+  (:predicates (in ?x) (visited ?x) (not-visited ?x)
+	       (starting ?x) (complete) (not-complete) (distance ?x ?y)
+	       (connected ?x ?y))
+  
+  
+  (:functions
+   (distance ?x ?y)
+   (total-cost)
+   )
+   
+   
+  (:action go-along
+    :parameters (?x ?y)
+    :precondition (and (in ?x) (not-visited ?y) (not-complete)
+		       (connected ?x ?y))
+    :effect (and (not (in ?x))  (increase (total-cost) (distance ?x ?y)) (in ?y) (visited ?y) (not (not-visited ?y)) ))
+
+ )
+ 
+ ;Problema
+ 
+ (define (problem ten-cities)
+  (:domain tsp-strips)
+  (:objects c1 c2 c3 c4 c5 c6 c7 c8 c9)
+  (:init (connected c1 c2) (connected c1 c4) (connected c2 c5) (connected c2 c3) (connected c3 c6) (connected c4 c5) (connected c5 c6) (connected c5 c8)
+         (connected c6 c9) (connected c7 c8) (connected c8 c9)
+         (= (distance c1 c2) 120) (= (distance c2 c1) 120) (= (distance c1 c4) 120) (= (distance c4 c1) 120) (= (distance c2 c5) 60) (= (distance c5 c2) 60)
+         (= (distance c2 c3) 120) (= (distance c3 c2) 120) (= (distance c3 c6) 120) (= (distance c6 c3) 120) (= (distance c4 c5) 120) (= (distance c5 c4) 120)
+         (= (distance c5 c6) 120) (= (distance c6 c5) 120) (= (distance c5 c8) 50) (= (distance c8 c5) 50) (= (distance c6 c9) 100) (= (distance c9 c6) 100)
+         (= (distance c7 c8) 100) (= (distance c8 c7) 100) (= (distance c7 c8) 100) (= (distance c8 c7) 100) (= (distance c8 c9) 100) (= (distance c9 c8) 100)
+         (visited c1) (not-visited c2) (not-visited c3)
+         (not-visited c4) (not-visited c5) (not-visited c6)
+         (not-visited c7) (not-visited c8) (not-visited c9)
+         (= (total-cost) 0)
+         (in c2) (starting c2) (not-complete))
+  (:goal (visited c9))
+              
+   (:metric minimize (total-cost))
+  )
+  
+  ;Plano 1
+  
+  (go-along c2 c5)
+(go-along c5 c8)
+(go-along c8 c9)
+; cost = 210 (general cost)
+
+
+;Plano 2
+(go-along c2 c5)
+(go-along c5 c6)
+(go-along c6 c9)
+; cost = 280 (general cost)
+
+;Plano 3
+
+(go-along c2 c3)
+(go-along c3 c6)
+(go-along c6 c9)
+; cost = 340 (general cost)
