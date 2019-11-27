@@ -20,6 +20,6 @@ Stylistic comments:
 
 ## Part 2
 
-- [Implementation](<link to github>)
-- [Final paper](salvi-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
-- [Final presentation slides](salvi-final-presentation-slides.pdf)
+- [Implementation](https://bitbucket.org/andreysalvi/mdp_tickets/src/master/)
+- [Final paper](salvi-proposal.pdf) - Even on [EasyChair](https://easychair.org/conferences/?conf=ap2019)
+- [Final presentation slides](salvi_final_presentation_slides.pdf)
