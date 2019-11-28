@@ -23,3 +23,8 @@ Stylistic comments:
 - [Implementation](<link to github>)
 - [Final paper](antonitsch-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
 - [Final presentation slides](antonitsch-final-presentation-slides.pdf)
+
+Comments:
+
+- Did you test with the real reward value?
+- Did you test the approach with a NN as your function approximation
