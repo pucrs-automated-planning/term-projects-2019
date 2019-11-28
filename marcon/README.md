@@ -21,3 +21,9 @@ Stylistic comments:
 - [Implementation](<link to github>)
 - [Final paper](marcon-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
 - [Final presentation slides](marcon-final-presentation-slides.pdf)
+
+Key comments:
+
+- Paper writing quality could be improved
+- Problem is hard, so disappointing results are sort of expected
+- Missing a better formalisation of the graph resulting from the problem instances
