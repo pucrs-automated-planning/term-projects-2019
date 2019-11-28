@@ -23,3 +23,7 @@ Stylistic comments:
 - [Implementation](<link to github>)
 - [Final paper](figlarz-paper.pdf) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
 - [Final presentation slides](figlarz-final-presentation-slides.pdf)
+
+Overall comments:
+- Experimentation is relatively small scale, so it is hard to assess the results
+- The manual nature of the problem domains is a limiting factor in the experimentation

@@ -22,3 +22,7 @@ Stylistic comments:
 - [Implementation](https://github.com/NathanGavenski/BCIO-Torch-Implementation)
 - [Final paper](https://easychair.org/conferences/?conf=ap2019) - Please submit it to [EasyChair](https://easychair.org/conferences/?conf=ap2019)
 - [Final presentation slides](gavenski-final-presentation-slides.pdf)
+
+
+Overall Comments:
+- Good presentation
