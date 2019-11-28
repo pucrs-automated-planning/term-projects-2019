@@ -23,3 +23,9 @@ Stylistic comments:
 - [Implementation](https://bitbucket.org/andreysalvi/mdp_tickets/src/master/)
 - [Final paper](salvi-proposal.pdf) - Even on [EasyChair](https://easychair.org/conferences/?conf=ap2019)
 - [Final presentation slides](salvi_final_presentation_slides.pdf)
+
+
+Questions:
+
+- Why did you train the LeNet first?
+- Why not include actions to re-add features to the mask?
